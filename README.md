@@ -1,6 +1,12 @@
-### Demo Page on Hybrid Cars using React & Material UI
+### Demo Page Showcasing Volvo Hybrid Cars using React & Material UI
 * Find the Deployed version on [netlify](https://hybrid-volvocars.netlify.app/)
 
+
+<div>
+<img src="home_page.png" width="320" height="240">
+<img src="products_page.png"  width="320" height="240">
+<img src="selected_page.png"  width="320" height="240">
+</div>
 
 # Getting Started with Create React App
 
